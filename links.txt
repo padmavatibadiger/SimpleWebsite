@@ -1,0 +1,6 @@
+https://www.swtestacademy.com/rest-assured-tutorial-api-testing/
+https://stackify.com/top-azure-paas-services-developers/
+https://blog.usejournal.com/how-to-build-a-real-time-chat-app-with-nodejs-socket-io-and-mongodb-7a4c9472edd1
+https://github.com/sudheeshshetty/Chat
+https://www.youtube.com/watch?v=RNrQ6Y3fh-M
+https://www.toolsqa.com/rest-assured-tutorial/
